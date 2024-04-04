@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\MSUnitTestCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculatortests\\arrayss1tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|solutionrelative:msunittestcalculatortests\\arrayss1tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculator\\arrayss1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|solutionrelative:msunittestcalculator\\arrayss1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|f:\\dotnetprogramss\\msunittestcalculator\\msunittestcalculatortests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|solutionrelative:msunittestcalculatortests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|solutionrelative:msunittestcalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|solutionrelative:msunittestcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|solutionrelative:msunittestcalculator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculator\\strings2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|solutionrelative:msunittestcalculator\\strings2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculatortests\\strings2tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|solutionrelative:msunittestcalculatortests\\strings2tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculatortests\\strings1tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DBDE8D-CB91-413E-8013-C13504FF9C51}|MSUnitTestCalculatorTests\\MSUnitTestCalculatorTests.csproj|solutionrelative:msunittestcalculatortests\\strings1tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|F:\\DotNetProgramss\\MSUnitTestCalculator\\msunittestcalculator\\strings1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35154612-7CE9-4D31-88F3-AC08DFF886AB}|MSUnitTestCalculator\\MSUnitTestCalculator.csproj|solutionrelative:msunittestcalculator\\strings1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrayss1Tests.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\Arrayss1Tests.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculatorTests\\Arrayss1Tests.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\Arrayss1Tests.cs",
+              "RelativeToolTip": "MSUnitTestCalculatorTests\\Arrayss1Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:57:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arrayss1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Arrayss1.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculator\\Arrayss1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Arrayss1.cs",
+              "RelativeToolTip": "MSUnitTestCalculator\\Arrayss1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:55:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Strings2Tests.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\Strings2Tests.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculatorTests\\Strings2Tests.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\Strings2Tests.cs",
+              "RelativeToolTip": "MSUnitTestCalculatorTests\\Strings2Tests.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAmwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:48:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Strings2.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Strings2.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculator\\Strings2.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Strings2.cs",
+              "RelativeToolTip": "MSUnitTestCalculator\\Strings2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:45:09.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Strings1Tests.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\Strings1Tests.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculatorTests\\Strings1Tests.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\Strings1Tests.cs",
+              "RelativeToolTip": "MSUnitTestCalculatorTests\\Strings1Tests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:11:36.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Strings1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Strings1.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculator\\Strings1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Strings1.cs",
+              "RelativeToolTip": "MSUnitTestCalculator\\Strings1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:09:18.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\App.config",
+              "RelativeDocumentMoniker": "MSUnitTestCalculator\\App.config",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\App.config",
+              "RelativeToolTip": "MSUnitTestCalculator\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-18T10:53:51.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculatorTests\\CalculatorTests.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculatorTests\\CalculatorTests.cs",
+              "RelativeToolTip": "MSUnitTestCalculatorTests\\CalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:10:22.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculator\\Calculator.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Calculator.cs",
+              "RelativeToolTip": "MSUnitTestCalculator\\Calculator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:06:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "MSUnitTestCalculator\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\MSUnitTestCalculator\\MSUnitTestCalculator\\Program.cs",
+              "RelativeToolTip": "MSUnitTestCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:44:32.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

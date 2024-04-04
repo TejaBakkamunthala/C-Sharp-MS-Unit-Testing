@@ -1,0 +1,7 @@
+F:\DotNetProgramss\MSUnitTestCalculator\MSUnitTestCalculator\bin\Debug\MSUnitTestCalculator.exe.config
+F:\DotNetProgramss\MSUnitTestCalculator\MSUnitTestCalculator\bin\Debug\MSUnitTestCalculator.exe
+F:\DotNetProgramss\MSUnitTestCalculator\MSUnitTestCalculator\bin\Debug\MSUnitTestCalculator.pdb
+F:\DotNetProgramss\MSUnitTestCalculator\MSUnitTestCalculator\obj\Debug\MSUnitTestCalculator.csproj.AssemblyReference.cache
+F:\DotNetProgramss\MSUnitTestCalculator\MSUnitTestCalculator\obj\Debug\MSUnitTestCalculator.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\MSUnitTestCalculator\MSUnitTestCalculator\obj\Debug\MSUnitTestCalculator.exe
+F:\DotNetProgramss\MSUnitTestCalculator\MSUnitTestCalculator\obj\Debug\MSUnitTestCalculator.pdb
